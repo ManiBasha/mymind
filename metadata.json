@@ -1,0 +1,7 @@
+{
+  "name": "Mymind",
+  "description": "A luxurious, AI-powered bookmark manager for short-form video content.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
