@@ -56,3 +56,4 @@ export interface AIAnalysisResult {
   subcategory: string;
   tags: string[];
 }
+
